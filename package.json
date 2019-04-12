@@ -8,15 +8,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/yiqi0110/LIRI.git"
+      "url": "git+https://github.com/timothylee504/LIRI.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/yiqi0110/LIRI/issues"
+      "url": "https://github.com/timothylee504/LIRI/issues"
     },
-    "homepage": "https://github.com/yiqi0110/LIRI#readme",
+    "homepage": "https://github.com/timothylee504/LIRI#readme",
     "dependencies": {
       "node-spotify-api": "^1.0.7",
       "request": "^2.88.0"
